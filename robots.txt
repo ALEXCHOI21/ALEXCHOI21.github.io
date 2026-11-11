@@ -1,4 +1,4 @@
-# DNA AI — Naver Search Advisor (Yeti) & Generative AI (GEO) Crawlers Policy
+# DNA AI 슈트 (DNA AI SUIT) — Naver Search Advisor (Yeti) & Generative AI (GEO) Crawlers Policy
 User-agent: *
 Allow: /
 
