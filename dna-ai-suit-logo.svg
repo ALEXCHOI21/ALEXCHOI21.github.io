@@ -3,12 +3,12 @@
   <desc id="desc">사용자 중심점에 네 개의 기능 레이어가 맞춰지는 모습을 표현한 로고</desc>
   <rect width="1200" height="360" fill="none"/>
   <g transform="translate(78 61)" fill="none" stroke-linecap="round">
-    <rect width="238" height="238" rx="35" fill="#24483D" stroke="none"/>
-    <path d="M60 76c28-30 74-37 112-16M48 121c-1 46 30 87 73 98M181 185c30-27 40-71 23-108" stroke="#93C6A2" stroke-width="11"/>
-    <path d="M96 96l45-31M93 162l-28 37M169 147l42 20" stroke="#5F9386" stroke-width="5"/>
-    <circle cx="118" cy="119" r="24" fill="#D8EBB2" stroke="none"/>
+    <rect width="238" height="238" rx="35" fill="#102A55" stroke="none"/>
+    <path d="M60 76c28-30 74-37 112-16M48 121c-1 46 30 87 73 98M181 185c30-27 40-71 23-108" stroke="#D1B06A" stroke-width="11"/>
+    <path d="M96 96l45-31M93 162l-28 37M169 147l42 20" stroke="#5C78A3" stroke-width="5"/>
+    <circle cx="118" cy="119" r="24" fill="#F2E4C8" stroke="none"/>
   </g>
-  <text x="366" y="159" font-family="Arial, Helvetica, sans-serif" font-size="77" font-weight="700" letter-spacing="-5" fill="#1C2925">DNA AI</text>
-  <text x="369" y="238" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="700" letter-spacing="17" fill="#24483D">SUIT</text>
-  <text x="811" y="233" font-family="'Noto Sans KR', Arial, sans-serif" font-size="22" fill="#536A5B">나에게 맞춰지는 개인 비서</text>
+  <text x="366" y="159" font-family="Arial, Helvetica, sans-serif" font-size="77" font-weight="700" letter-spacing="-5" fill="#10264A">DNA AI</text>
+  <text x="369" y="238" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="700" letter-spacing="17" fill="#102A55">SUIT</text>
+  <text x="811" y="233" font-family="'Noto Sans KR', Arial, sans-serif" font-size="22" fill="#C19B50">나에게 맞춰지는 개인 비서</text>
 </svg>
