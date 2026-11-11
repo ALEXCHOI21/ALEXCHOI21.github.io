@@ -9,6 +9,11 @@
 - Website: https://alexchoi21.github.io/
 - Sitemap: https://alexchoi21.github.io/sitemap.xml
 
+## Official Channels
+- Tistory Tech Blog: https://choigpt.tistory.com/
+- Threads: https://www.threads.com/@choigpt21
+- Instagram: https://www.instagram.com/choigpt21/
+
 ## Core Brand & Search Pillars
 - **AI 마케팅**: 인스타그램·쓰레드 SNS 자동 포스팅, 네이버 플레이스·블로그·웹 상위노출(SEO), ChatGPT·Perplexity·Google AI 추천(GEO), 상권·검색 진단 컨설팅
 - **AI 보안**: 생성형 AI 도입 환경 점검, 사내 문서·고객 개인정보 유출 방지, API 키 보호 및 접근 권한 통제 설계
