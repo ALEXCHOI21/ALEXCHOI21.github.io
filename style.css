@@ -293,6 +293,7 @@ h1, h2, h3, p { margin-top: 0; }
   margin-bottom: 0;
 }
 .intro-main > div { padding-top: 12px; }
+.brand-operator { border-left: 2px solid var(--green); padding: 12px 0 12px 18px; font-size: 14px !important; background: rgba(45, 81, 66, .035); }
 .intro-main p,
 .section-heading p,
 .approach-grid > div > p,
@@ -621,6 +622,7 @@ footer {
   color: var(--muted);
 }
 footer p { margin: 0; flex: 1; }
+footer .operator-details { flex-basis: 100%; order: 4; font-size: 11px; color: var(--muted); }
 footer .brand { color: var(--ink); }
 .footer-meta {
   display: inline-flex;

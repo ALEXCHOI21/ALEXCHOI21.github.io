@@ -2,6 +2,9 @@
 
 > 개인 비서를 입다. DNA AI 슈트는 업무에 맞춘 AI 에이전트, 마케팅 자동화, 검색 가시성, 맞춤형 플랫폼과 AI 보안을 연결하는 비즈니스 기술 스튜디오입니다.
 
+- Brand: DNA AI 슈트 (DNA AI SUIT)
+- Operating business: 투어티플레이스 (Tour-Tplace), 사업자등록번호 406-17-02072
+
 ## Official URL
 - Website: https://alexchoi21.github.io/
 - Sitemap: https://alexchoi21.github.io/sitemap.xml
