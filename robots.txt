@@ -1,0 +1,41 @@
+# DNA AI — Naver Search Advisor (Yeti) & Generative AI (GEO) Crawlers Policy
+User-agent: *
+Allow: /
+
+# Naver Search Robot
+User-agent: Yeti
+Allow: /
+
+# Google Search & Google AI Overviews / Gemini
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# OpenAI ChatGPT Search & Retrieval
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Anthropic Claude
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Microsoft Bing (Copilot & ChatGPT Index Partner)
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://alexchoi21.github.io/sitemap.xml
