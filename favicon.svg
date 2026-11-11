@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="DNA AI 아이콘">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="DNA AI 슈트 아이콘">
   <rect width="64" height="64" rx="14" fill="#2d5142"/>
   <rect x="6" y="6" width="52" height="52" rx="10" fill="none" stroke="#cde1b9" stroke-opacity="0.35" stroke-width="1.5"/>
   <text x="50%" y="39" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="700" letter-spacing="-1" fill="#f5f3ee">D<tspan fill="#cde1b9">N</tspan>A</text>
-  <text x="50%" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="2.5" fill="#cde1b9">AI</text>
+  <text x="50%" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="700" letter-spacing="1.5" fill="#cde1b9">SUIT</text>
 </svg>

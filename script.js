@@ -35,7 +35,7 @@ function buildInquiryBrief(scopes) {
     ? scopes.map((item, idx) => `${idx + 1}. ${item}`).join('\n')
     : '1. 전반적인 도입 방향 상담';
   return [
-    '[DNA AI 프로젝트 사전 검토 브리프]',
+    '[DNA AI 슈트 프로젝트 사전 검토 브리프]',
     `- 검토 희망 분야:\n${listText}`,
     '- 현재 보유 채널(웹사이트/SNS URL): ',
     '- 목표 일정 및 핵심 해결 과제: '

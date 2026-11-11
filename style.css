@@ -68,6 +68,15 @@ button { font: inherit; cursor: pointer; }
   font-weight: 700;
   color: var(--green);
 }
+.brand-suit {
+  margin-left: 3px;
+  padding-left: 10px;
+  border-left: 1px solid #9eafa0;
+  color: var(--green);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.19em;
+}
 .main-nav {
   display: flex;
   gap: 30px;
