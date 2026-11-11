@@ -1,6 +1,12 @@
 # DNA AI 슈트 (DNA AI SUIT)
 
-> 검색되고, AI가 이해하고, SNS에서 꾸준히 기억되는 브랜드. DNA AI 슈트는 SEO·GEO 진단, 콘텐츠 자동화, 공식 정보 정비와 성과 확인을 하나의 고객 유입 흐름으로 연결하는 AI 마케팅 파트너입니다.
+> 개인 비서를 입다. DNA AI 슈트는 내 일을 알고 먼저 챙겨주는 AI 친구 '다니(DANI)'를 중심으로 검색·생성형 AI·SNS·고객 관리와 업무 자동화를 하나의 비서 경험으로 연결합니다.
+
+## Brand Character
+- **DANI (다니)**: DNA AI SUIT의 친근한 AI 비서 캐릭터
+- **Personality**: 차분하고 친근하며, 먼저 확인하고 사실을 기반으로 보고하는 업무 파트너
+- **Brand promise**: 검색·AI·SNS까지, 다니가 곁에서 챙깁니다.
+- **Operation loop**: 관찰 → 정리 → 실행 → 보고
 
 - Brand: DNA AI 슈트 (DNA AI SUIT)
 - Operating business: 투어티플레이스 (Tour-Tplace), 사업자등록번호 406-17-02072
@@ -28,4 +34,3 @@
 
 ## Contact Status
 - 공식 대표 이메일 및 상담 채널 연결 준비 중입니다. 홈페이지 내 도입 분야 선택 도구를 통해 사전 검토 브리프를 작성·복사하실 수 있습니다.
-
