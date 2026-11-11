@@ -420,6 +420,15 @@ h1, h2, h3, p { margin-top: 0; }
   border-bottom: 0;
 }
 .service-matrix td { color: var(--muted); }
+.service-matrix td a {
+  color: var(--green);
+  font-weight: 700;
+  border-bottom: 1px solid rgba(45, 81, 66, 0.35);
+  padding-bottom: 1px;
+}
+.service-matrix td a:hover {
+  border-bottom-color: var(--green);
+}
 
 .approach { background: var(--paper); }
 .approach-grid {
