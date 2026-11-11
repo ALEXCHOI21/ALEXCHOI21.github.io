@@ -58,6 +58,16 @@ button { font: inherit; cursor: pointer; }
   gap: 7px;
   white-space: nowrap;
 }
+.brand-logo-image {
+  display: block;
+  width: clamp(205px, 17vw, 270px);
+  height: auto;
+  max-height: 72px;
+}
+.footer-logo-image {
+  width: 250px;
+  max-height: none;
+}
 .brand-mark {
   font-size: 29px;
   font-weight: 700;
@@ -732,6 +742,8 @@ footer .brand { color: var(--ink); }
 }
 
 @media (max-width: 700px) {
+  .brand-logo-image { width: 188px; max-height: 58px; }
+  .footer-logo-image { width: 230px; max-height: none; }
   .dani-world-heading { grid-template-columns: 1fr; gap: 20px; margin: 38px 0 28px; }
   .dani-world-heading h2 { font-size: 36px; }
   .dani-world-heading > p { font-size: 17px; }
