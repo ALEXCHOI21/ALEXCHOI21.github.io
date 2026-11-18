@@ -12,8 +12,8 @@
 - Operating business: 투어티플레이스 (Tour-Tplace), 사업자등록번호 406-17-02072
 
 ## Official URL
-- Website: https://alexchoi21.github.io/
-- Sitemap: https://alexchoi21.github.io/sitemap.xml
+- Website: https://dnaai.co.kr/
+- Sitemap: https://dnaai.co.kr/sitemap.xml
 
 ## Official Channels
 - Tistory Tech Blog: https://choigpt.tistory.com/

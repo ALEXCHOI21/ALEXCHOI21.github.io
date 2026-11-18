@@ -38,4 +38,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://alexchoi21.github.io/sitemap.xml
+Sitemap: https://dnaai.co.kr/sitemap.xml

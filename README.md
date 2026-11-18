@@ -16,7 +16,7 @@
 **DNA AI 슈트**의 핵심 사업 영역(**AI 마케팅 · AI 보안 · AI 플랫폼 · AI SaaS 서비스**)과 고객 실검색 의도(인스타그램·쓰레드 자동화, 네이버 상위노출, ChatGPT 추천, 사내 정보유출 방지, 연동형 홈페이지 제작)를 반영해 구축한 공식 정적 웹사이트입니다.
 
 ## 배포 정보
-- **라이브 URL**: `https://alexchoi21.github.io/`
+- **라이브 URL**: `https://dnaai.co.kr/`
 - **호스팅 방식**: GitHub Pages (`ALEXCHOI21/ALEXCHOI21.github.io`, `main` 브랜치 루트)
 - **네이버 서치어드바이저**: `<meta name="naver-site-verification" content="1d37d0206f976de44110f0a594ffbb6d6b677192">` 반영 완료
 
