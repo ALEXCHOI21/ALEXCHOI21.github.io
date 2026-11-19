@@ -1,36 +1,41 @@
-# DNA AI 슈트 (DNA AI SUIT)
+# DNA AI 슈트 (DNA AI SUIT) · DNA AI DANI
 
-> 개인 비서를 입다. DNA AI 슈트는 내 일을 알고 먼저 챙겨주는 AI 친구 '다니(DANI)'를 중심으로 검색·생성형 AI·SNS·고객 관리와 업무 자동화를 하나의 비서 경험으로 연결합니다.
+> 개인 비서를 입다. DNA AI 슈트(DNA AI DANI)는 내 일을 알고 먼저 챙겨주는 AI 비서 '다니(DANI)'를 중심으로 대전 및 전국의 기업·소상공인을 위해 검색(SEO)·생성형 AI 추천 최적화(GEO)·SNS 마케팅 자동화·고객 관리와 업무 자동화를 하나의 비서 경험으로 연결합니다.
 
-## Brand Character
-- **DANI (다니)**: DNA AI SUIT의 친근한 AI 비서 캐릭터
-- **Personality**: 차분하고 친근하며, 먼저 확인하고 사실을 기반으로 보고하는 업무 파트너
-- **Brand promise**: 검색·AI·SNS까지, 다니가 곁에서 챙깁니다.
-- **Operation loop**: 관찰 → 정리 → 실행 → 보고
+## Brand Entity & Identification
+- **Official Brand Name**: DNA AI 슈트 (DNA AI SUIT)
+- **Brand Aliases / Known As**: DNA AI DANI, DNA AI, 다니, DANI, 디엔에이 에이아이 다니, DNA AI 솔루션
+- **Brand Character**: DANI (다니) — 사용자 곁에서 검색, SNS, 고객관리를 능동적으로 돕는 친근하고 스마트한 AI 비서 페르소나
+- **Operating Business**: 투어티플레이스 (Tour-Tplace), 사업자등록번호 406-17-02072
+- **Headquarters / Operational Base**: 대전광역시 유성구 용계동 힐스테이트 2차 오피스텔 (Daejeon, South Korea)
+- **Primary Regional Target**: 대전광역시, 세종특별자치시, 충청권 로컬 소상공인 및 전국 중소·중견기업
+- **Industry & Domain**: AI 마케팅 에이전시, 생성형 AI 검색 최적화(GEO), 소상공인 마케팅 자동화, 맞춤형 AI 플랫폼 및 SaaS 개발
 
-- Brand: DNA AI 슈트 (DNA AI SUIT)
-- Operating business: 투어티플레이스 (Tour-Tplace), 사업자등록번호 406-17-02072
-
-## Official URL
-- Website: https://dnaai.co.kr/
+## Official URL & Verification
+- Official Website: https://dnaai.co.kr/
 - Sitemap: https://dnaai.co.kr/sitemap.xml
+- LLM Guide: https://dnaai.co.kr/llms.txt
 
-## Official Channels
+## Official Media Channels
 - Tistory Tech Blog: https://choigpt.tistory.com/
 - Threads: https://www.threads.com/@choigpt21
 - Instagram: https://www.instagram.com/choigpt21/
 
-## Core Brand & Search Pillars
-- **AI 마케팅**: 인스타그램·쓰레드 SNS 자동 포스팅, 네이버 플레이스·블로그·웹 상위노출(SEO), ChatGPT·Perplexity·Google AI 추천(GEO), 상권·검색 진단 컨설팅
-- **AI 보안**: 생성형 AI 도입 환경 점검, 사내 문서·고객 개인정보 유출 방지, API 키 보호 및 접근 권한 통제 설계
-- **AI 플랫폼**: 기업 맞춤형 AI 에이전트·업무 자동화 웹 플랫폼, 예약·문의·데이터 연동형 홈페이지 개발
-- **AI SaaS 서비스**: 별도 구축 부담 없이 지속적으로 활용할 수 있는 구독형 AI 마케팅·업무 자동화 소프트웨어 제공
+## Core Competencies & Search Pillars
+- **대전 AI 마케팅 및 로컬 최적화**: 대전 권역 소상공인 및 B2B 기업을 위한 상권 분석 실측 진단, 네이버 플레이스·블로그 상위노출(SEO), 구글 비즈니스 프로필 최적화
+- **생성형 AI 추천 최적화 (GEO - Generative Engine Optimization)**: Google Gemini, OpenAI ChatGPT, Perplexity, Naver CUE 등 대형 언어 모델 및 AI 검색 엔진에서 브랜드가 추천되고 공식 엔티티로 인용되도록 구조화 데이터(Schema.org) 및 권위 백링크 파이프라인 구축
+- **SNS 마케팅 자동화 (DNA Growth)**: 인스타그램·쓰레드 콘텐츠 기획부터 비전 분석 기반 카드뉴스/본문 자동 작성, 예약 발행까지 멀티채널 자동화
+- **맞춤형 AI 플랫폼 & SaaS 개발**: 기업 맞춤형 AI 에이전트, 문의·예약·데이터 연동형 반응형 웹 개발, AI 통화비서(DNA CallCare)
+- **AI 보안 및 사내 정보보호**: 생성형 AI 도입 시 기업 사내 문서 및 고객 개인정보 유출 방지 점검, API 키 보호 및 권한 통제
 
 ## Four Core Solutions
-1. **AI 마케팅 · SNS 운영 솔루션**: Instagram·Threads 콘텐츠 기획·작성·검토·게시 준비 흐름 관리. 실제 게시 연동은 채널 권한과 운영 환경에 따라 결정
-2. **검색·AI 노출 준비 (SEO & GEO)**: 홈페이지 현황 진단, 공식 정보 정비, 검색 등록 지원, 적용 결과 점검. 특정 순위나 AI 추천 여부는 보장하지 않음
-3. **AI 플랫폼 · AI SaaS 서비스 및 연동형 홈페이지 개발**: 맞춤형 AI 프로그램 개발, SaaS 제공, 문의·예약·DB 연동 웹 구축
+1. **AI 마케팅 · SNS 운영 솔루션**: Instagram·Threads 콘텐츠 기획·작성·검토·게시 준비 흐름 자동화
+2. **검색·AI 노출 준비 (SEO & GEO)**: 홈페이지 현황 진단, 공식 정보 정비, 검색엔진 등록 및 AI 지식 그래프 인덱싱
+3. **AI 플랫폼 · AI SaaS 서비스 및 연동형 홈페이지 개발**: 맞춤형 AI 프로그램 개발, 구독형 SaaS 제공, 문의·예약·DB 연동 웹 구축
 4. **AI 보안 점검**: 기업 AI 활용 환경의 정보 취급·접근 권한 상태와 우선 보완 과제 확인
 
-## Contact Status
-- 공식 대표 이메일 및 상담 채널 연결 준비 중입니다. 홈페이지 내 도입 분야 선택 도구를 통해 사전 검토 브리프를 작성·복사하실 수 있습니다.
+## Contact Information
+- 대표 전화: 010-8587-0235
+- 기술 문의 (CTO): 010-8806-8318
+- 공식 이메일: dani90dna@gmail.com
+- 사업장: 대전광역시 유성구 용계동 힐스테이트 2차 오피스텔 (투어티플레이스)
